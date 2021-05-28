@@ -1,1 +1,1 @@
-# color-box
+# Box Class
